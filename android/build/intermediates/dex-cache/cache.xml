@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-e0da0fb7c218311fbf722c41b2e7fc83dd75017e.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-120e2d147b10c23deecc429169172126ca931148.jar" />
+    </item>
+    <item
+        jar="/home/maverick/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-e589ae84d74d1cb3ac4a96bc2e425afbcdd0737a.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/custcomponent/rn-camera-roll/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="43143cdcb9f608e4aa08c2b9494f23aadf191710">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-3a1d4f0e163049580c647b6b151942204309b023.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-6c96a8aebcb84034abce8898a8fbb82447aaf449.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-9109b57aabf25d7f9fe2eb957ad43c70334df658.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-3b2e3bf145f49610ea1d360cbe52497f79cfec55.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-3eb47b24985f74f19c7766a74391b7636ccea1d4.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1-077be69a60509d2052b832f50385de15b44975a4.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-ef26e34980b7842d74bcb83f81da2b7837773180.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2-103c3c940110216c3998e3e9e9911cb76eb68254.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-fc0c806c555324cfbd531d1f4a8302fa84c3de0a.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-b95a2d54878d2c2ff9269bfe0401db8cf2b3d8e4.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-7168b1c0b37ec62a47407882aa2d92ae4653fe31.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-911c2e2ef898dcc107b0f19e56470d8f43cef184.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-124fe8b6c2ea34420ba9cb9bcfa47ee3cce4d310.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-a6de40b12b80078cddcffac1963825d3c0cf59e5.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-a07f5443a8fc29452c9eb2c7f3f9b55f9758ab44.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-9c2e9535bd827f18f3dc05bc417401fae1735972.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/custcomponent/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c78ddcd6fa0617c1e040ccda6d0807b17f6df74f">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-e3999830fa032f353362adf952314bbc4a804279.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-39c570405e2bb3feb17b7dccae0268cc36f0b82e.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-db7b8673343cd79514ba75904798fe2b3919795f.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-6a4370ac367c0dab5c976c9bfd4b5611d23541ea.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/classes-964a61417a721b6d8550188f435774d6c22722fd.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-70e59db5a315db79705db380ffd7e5eb8908b5b6.jar" />
+    </item>
+    <item
+        jar="/home/maverick/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/core-3.2.1-0e74bf9251b47986a4d2bb68824cb4b4f89649a0.jar" />
+    </item>
+    <item
+        jar="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-6256f3aefeb36a230078c6dd2a308988b7aa15e4.jar" />
+    </item>
+
+</items>
