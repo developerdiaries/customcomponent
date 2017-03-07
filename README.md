@@ -12,3 +12,5 @@ react-native run-android & You are ready to pick videos of your device.
 For the another component that is Progress Bar Android. You need to import it first in the index.js file.
 
 import Progress from './progress';
+
+For the third component you need to import animate.js in the main file of your project.
