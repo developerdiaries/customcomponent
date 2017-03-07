@@ -8,3 +8,7 @@ $ npm install
 Then replace rn-camera-roll folder with the one provided in the root folder of project.
 
 react-native run-android & You are ready to pick videos of your device.
+
+For the another component that is Progress Bar Android. You need to import it first in the index.js file.
+
+import Progress from './progress';
