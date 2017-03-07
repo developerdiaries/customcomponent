@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rn-camera-roll",
+        "scope": null,
+        "escapedName": "rn-camera-roll",
+        "name": "rn-camera-roll",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/ajay/Projects/Transit"
+    ]
+  ],
+  "_from": "rn-camera-roll@latest",
+  "_id": "rn-camera-roll@0.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/rn-camera-roll",
+  "_nodeVersion": "4.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/rn-camera-roll-0.0.5.tgz_1466447320889_0.13490207749418914"
+  },
+  "_npmUser": {
+    "name": "almouro",
+    "email": "alexandrem@bamlab.fr"
+  },
+  "_npmVersion": "2.14.20",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rn-camera-roll",
+    "scope": null,
+    "escapedName": "rn-camera-roll",
+    "name": "rn-camera-roll",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/rn-camera-roll/-/rn-camera-roll-0.0.5.tgz",
+  "_shasum": "28d4d799b5fb5971a0248cb9fb9631d82c1c45b0",
+  "_shrinkwrap": null,
+  "_spec": "rn-camera-roll",
+  "_where": "/home/ajay/Projects/Transit",
+  "author": {
+    "name": "Almouro",
+    "email": "alexandrem@bamlab.fr",
+    "url": "http://bamlab.fr"
+  },
+  "bugs": {
+    "url": "https://github.com/bamlab/rn-camera-roll/issues"
+  },
+  "dependencies": {},
+  "description": "Camera Roll for react native Android",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "28d4d799b5fb5971a0248cb9fb9631d82c1c45b0",
+    "tarball": "https://registry.npmjs.org/rn-camera-roll/-/rn-camera-roll-0.0.5.tgz"
+  },
+  "gitHead": "dd1785f208d84c4817debaa3a3a2f4806d622c3d",
+  "homepage": "https://github.com/bamlab/rn-camera-roll#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "camera",
+    "camera-roll"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "almouro",
+      "email": "alexandrem@bamlab.fr"
+    }
+  ],
+  "name": "rn-camera-roll",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=v0.14.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamlab/rn-camera-roll.git"
+  },
+  "scripts": {},
+  "version": "0.0.5"
+}

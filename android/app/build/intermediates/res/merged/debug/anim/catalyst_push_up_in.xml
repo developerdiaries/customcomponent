@@ -11,4 +11,4 @@
           android:duration="@android:integer/config_shortAnimTime"
           />
 </set>
-<!-- From: file:/home/maverick/ReactNative/custcomponent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/res/anim/catalyst_push_up_in.xml -->
+<!-- From: file:/Users/maverick/Documents/customcomponent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/res/anim/catalyst_push_up_in.xml -->
